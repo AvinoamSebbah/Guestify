@@ -76,9 +76,14 @@ Modify `translations.json` to update event details like date, location, and mess
 - React Query ⚡
 - i18next 🌍
 
+## Author ✍️
+
+Avinoam
+
 ---
 
 Enjoy using **Guestify** and make your event management seamless! 🚀
+
 
 Invitation card :
 ![image](https://github.com/user-attachments/assets/889bf8c6-c0d9-4beb-be70-1a3783c805d3)
