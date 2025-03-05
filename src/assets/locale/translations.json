@@ -1,0 +1,68 @@
+{
+  "en": {
+    "translation": {
+      "confirm_your_attendance": "Confirm your attendance",
+      "number_of_people": "Number of people:",
+      "full_name": "Full Name",
+      "confirm": "Confirm",
+      "confirm_your_attendance_on_date": "Confirm your attendance on May 16",
+      "event_place": "Malon Yehouda, Jerusalem - 18:00",
+      "will_be_present": "Will be present :)",
+      "will_not_be_present": "Will not be present :/",
+      "your_confirmation_has_been_successfully_recorded": "Your confirmation has been successfully recorded. Thank you",
+      "your_confirmation_was_not_recorded_please_contact_the_host": "Your confirmation was not recorded, please contact the host at +972584010266.",
+      "confirmed_guest_list": "Confirmed Guest List",
+      "search": "Search",
+      "column.full_name": "Full Name",
+      "column.num_guests": "Number of Guests",
+      "column.confirmed": "Confirmed",
+      "alert.photoRequired": "Don't forget to add the photo!",
+      "title.sharePhotos": "Share your photos📸😉",
+      "button.send": "Send"
+    }
+  },
+  "fr": {
+    "translation": {
+      "confirm_your_attendance": "Confirmer votre présence",
+      "number_of_people": "Nombre de personnes :",
+      "full_name": "Nom Complet",
+      "confirm": "Confirmer",
+      "confirm_your_attendance_on_date": "Confirmer votre présence le 16 Mai",
+      "event_place": "Malon Yehouda, Jerusalem - 18:00",
+      "will_be_present": "Sera présent(e) :)",
+      "will_not_be_present": "Ne sera pas présent(e) :/",
+      "your_confirmation_has_been_successfully_recorded": "Votre confirmation a bien été enregistrée. Merci",
+      "your_confirmation_was_not_recorded_please_contact_the_host": "Votre confirmation n'a pas été enregistrée, veuillez contacter le +972584010266.",
+      "confirmed_guest_list": "Liste des invités confirmés",
+      "search": "Rechercher",
+      "column.full_name": "Nom Complet",
+      "column.num_guests": "Nombre d'invités",
+      "column.confirmed": "Confirmé",
+      "alert.photoRequired": "N'oublie pas de rajouter la photo!",
+      "title.sharePhotos": "Partager vos photos📸😉",
+      "button.send": "Envoyer"
+    }
+  },
+  "he": {
+    "translation": {
+      "confirm_your_attendance": "אשרו את הנוכחות שלכם",
+      "number_of_people": "מספר אנשים :",
+      "full_name": "שם מלא",
+      "confirm": "אשרו",
+      "confirm_your_attendance_on_date": "אשרו את הנוכחות שלכם ב-16 במאי",
+      "event_place": "מלון יהודה, ירושלים - 18:00",
+      "will_be_present": "יהיה נוכח :)",
+      "will_not_be_present": "לא יהיה נוכח :/",
+      "your_confirmation_has_been_successfully_recorded": "האישור שלכם נרשם בהצלחה. תודה",
+      "your_confirmation_was_not_recorded_please_contact_the_host": "האישור שלכם לא נרשם, אנא צרו קשר עם המזמין במספר +972584010266.",
+      "confirmed_guest_list": "רשימת אורחים מאושרים",
+      "search": "חיפוש",
+      "column.full_name": "שם מלא",
+      "column.num_guests": "מספר אורחים",
+      "column.confirmed": "מאושר",
+      "alert.photoRequired": "אל תשכח להוסיף את התמונה!",
+      "title.sharePhotos": "שתף את התמונות שלך📸😉",
+      "button.send": "שלח"
+    }
+  }
+}
